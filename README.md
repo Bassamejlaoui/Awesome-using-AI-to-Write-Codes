@@ -153,3 +153,14 @@ Then scroll down to the bottom and click **"Open config.json"** and add the foll
       "provider": "ollama"
 }
 ```
+
+> :warning: **Note** the **model name** must be exactly the same as the one you downloaded, the **apiBase** and **provider** are always the same for Ollama not matter what model you are using.
+
+![image](https://github.com/mejbass/Autocomplete-to-Autopilot---Working-with-Coding-Assistants/assets/130122304/a5ef1474-5fde-4a59-9634-7268cd6a2101)
+
+Then save and close it. After that select the "DeepSeek-7b" model from the drop down list at the bottom left. And That's it, you can now start to use ***Continue***
+
+![image](https://github.com/mejbass/Autocomplete-to-Autopilot---Working-with-Coding-Assistants/assets/130122304/7ce7ca7d-872c-4d2f-aa09-b8e8aae74479)
+
+Lets try out the **Chat first.** Here, I asked it to write a simple FastAPI server with all curd operations. It will even give you instruction on how to run it, very nice!
+
