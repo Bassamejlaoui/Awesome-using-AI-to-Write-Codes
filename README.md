@@ -93,3 +93,17 @@ That's it, you can now start using **Codeium** total for free! There are several
 > :warning: Before we move on to the next coding assistants, we need to install a tool that is used by all of them to run an LLM locally. Let me introduce you to **Ollama**
 
 ### Ollama
+
+[Ollama](https://ollama.com/?ref=alxappliedai.com) is a phenomenal tool to run LLMs locally. Its light weight and fast and works on all platforms (though the ease of installation differs).
+
+![Screely-Editor-Screenshot](https://github.com/mejbass/Autocomplete-to-Autopilot---Working-with-Coding-Assistants/assets/130122304/631c93aa-cffa-4085-a456-a75535b94313)
+
+**Installation**
+
+Installation is very straight forward. Windows and Mac users can directly download and install ollama and Linux users are provided with a "one line" command. (https://ollama.com/download)
+
+> :warning: After installing ollama, it's icon will appear on windows taskbar and on Mac toolbar.
+
+To check that **ollama** is correctly installed, open the terminal and type ```ollama``` this will list available commands.
+
+> :warning: You can also visit http://127.0.0.1:11434/ to check if ollama is running.
