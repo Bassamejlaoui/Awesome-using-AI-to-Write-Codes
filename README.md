@@ -35,9 +35,9 @@ The once solitary world of coding is undergoing a transformative shift. AI-power
 
 However, with great power comes great responsibility (as they say). Ethical considerations and limitations are also crucial factors to consider:
 
-**Ethical Concerns:** The use of AI-generated code raises questions about ownership and responsible development. Are developers relying too heavily on assistants, hindering their own learning? Moreover, potential biases within the underlying data could lead to discriminatory or unfair outputs. As this technology evolves, navigating these ethical concerns will be crucial.
+> :warning: **Ethical Concerns:** The use of AI-generated code raises questions about ownership and responsible development. Are developers relying too heavily on assistants, hindering their own learning? Moreover, potential biases within the underlying data could lead to discriminatory or unfair outputs. As this technology evolves, navigating these ethical concerns will be crucial.
 
-**Limitations and Transparency:** Despite their impressive capabilities, AI assistants are not perfect. They can sometimes generate incorrect or suboptimal code, and their suggestions may not always align with your specific needs. It's important to remember that these tools are not replacements for your own expertise and judgment; they are best used as powerful companions, not autonomous developers.
+> :warning: **Limitations and Transparency:** Despite their impressive capabilities, AI assistants are not perfect. They can sometimes generate incorrect or suboptimal code, and their suggestions may not always align with your specific needs. It's important to remember that these tools are not replacements for your own expertise and judgment; they are best used as powerful companions, not autonomous developers.
 
 By understanding the potential benefits and limitations of coding assistants, you can harness their power to supercharge your productivity, improve your code quality, and accelerate your learning journey. Remember, AI is here to enhance your skills, not replace them. So, embrace the future of coding and let your creativity take flight, guided by your trusty AI co-pilot.
 
