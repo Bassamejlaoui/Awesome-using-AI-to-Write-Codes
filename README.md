@@ -107,3 +107,15 @@ Installation is very straight forward. Windows and Mac users can directly downlo
 To check that **ollama** is correctly installed, open the terminal and type ```ollama``` this will list available commands.
 
 > :warning: You can also visit http://127.0.0.1:11434/ to check if ollama is running.
+
+To run ollama you can use the command ```ollama serve``` . If it is already running it will let you know which port and if it was not it will run ollama.
+
+### Installing the LLMs:
+
+You can visit [Ollama library](https://ollama.com/library) to discover supported models that you can run using ollama. Once you find one, the instruction to install it provided in the detail section of the model.
+
+We will be using two models on the tools that we are going to discuss below. Both models are from [DeepSeek](https://deepseekcoder.github.io/?ref=alxappliedai.com).
+
+```ollama run deepseek-coder:1.3b-base-q4_0```
+
+```ollama run deepseek-coder:6.7b```
