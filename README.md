@@ -119,3 +119,14 @@ We will be using two models on the tools that we are going to discuss below. Bot
 ```ollama run deepseek-coder:1.3b-base-q4_0```
 
 ```ollama run deepseek-coder:6.7b```
+
+> :warning: Note: if ollama is not running, execute ```ollama serve```
+
+> :warning: No matter which operating system you are using (Mac, Linux or Windows), the command used to run LLMs is the same. You can run the above and the model will be downloaded and ready for use.
+
+> :warning: Note, You can use any supported model with this tools. However, larger size models will be very slow but accurate, while small models will be fast but might hallucinate more. So it is a trade off. Here is my suggestion, for auto-completion use small models (like 1b) , for chat use larger models (like 7b and 13b or more if you have the hardware)
+
+## Continue.dev - FREE & Open Source
+[Continue](https://continue.dev/)
+This is an amazing project that can generate, refactor, and explain entire sections of code. It uses natural language to refactor and edit code and it can generate files from scratch. It is truly an amazing project. It works with a huge number of LLM that run locally as well as via service providers. But here, we will connect it to our **Ollama** instance that we installed earlier.
+
