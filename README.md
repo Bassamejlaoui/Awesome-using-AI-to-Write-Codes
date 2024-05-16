@@ -72,3 +72,24 @@ Now, when the login page opens create an account or use your google account to s
 ![image-23](https://github.com/mejbass/Autocomplete-to-Autopilot---Working-with-Coding-Assistants/assets/130122304/1ecd823e-1f8e-472e-97fc-f90531e43b55)
 
 > :warning: Want an in depth setup process? [checkout](https://codeium.com/vscode_tutorial)
+
+That's it, you can now start using **Codeium** total for free! There are several ways you can use **Codeium** but the main ones are
+
+**AutoCompletion** - Automatically generated as you type
+**Code Refactoring**
+**In-line** - Command + I on Mac or Alt + I on Windows/Linux
+**Separate Chat** - Found of the left side bar ({...} icon)
+**Explain Code**
+**Generate Documentation**
+**Unit Test Generation**
+
+![image-25](https://github.com/mejbass/Autocomplete-to-Autopilot---Working-with-Coding-Assistants/assets/130122304/49eebb5c-ab8e-4b76-aa20-e1639310735e)
+
+
+![image-24](https://github.com/mejbass/Autocomplete-to-Autopilot---Working-with-Coding-Assistants/assets/130122304/f12c7eda-f8b8-49f3-aaf4-0a6b0b575213)
+
+![image-26](https://github.com/mejbass/Autocomplete-to-Autopilot---Working-with-Coding-Assistants/assets/130122304/c12635c0-d6b9-421d-a6e0-ecbc203fce38)
+
+> :warning: Before we move on to the next coding assistants, we need to install a tool that is used by all of them to run an LLM locally. Let me introduce you to **Ollama**
+
+### Ollama
