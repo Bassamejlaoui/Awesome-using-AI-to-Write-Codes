@@ -130,3 +130,26 @@ We will be using two models on the tools that we are going to discuss below. Bot
 [Continue](https://continue.dev/)
 This is an amazing project that can generate, refactor, and explain entire sections of code. It uses natural language to refactor and edit code and it can generate files from scratch. It is truly an amazing project. It works with a huge number of LLM that run locally as well as via service providers. But here, we will connect it to our **Ollama** instance that we installed earlier.
 
+Currently **continue.dev** supports VSCode and JetBrain IDEs. Here we will use VSCode to demo this coding assistant. Open VSCode and search for continue in the extensions tab.
+
+![image-35](https://github.com/mejbass/Autocomplete-to-Autopilot---Working-with-Coding-Assistants/assets/130122304/50aef83e-767c-4943-b6e7-26c5f9f363d0)
+
+After you install it, there will be an icon similar to the below, when you click it the chat interface will open. This is one of the two ways you can interact with ***Continue.***
+
+![image-36](https://github.com/mejbass/Autocomplete-to-Autopilot---Working-with-Coding-Assistants/assets/130122304/4dfbefef-5dbf-4938-900f-bc7b6b2becbe)
+
+However, before we start using it we need to setup our LLM. Click the plus icon at the bottom left and then click on **Ollama** option.
+
+![image-37](https://github.com/mejbass/Autocomplete-to-Autopilot---Working-with-Coding-Assistants/assets/130122304/66b6374e-8816-4dc0-9ceb-192c2ebddeff)
+
+Then scroll down to the bottom and click **"Open config.json"** and add the following configuration to the config.json file. This is one of the models we download earlier.
+
+```
+{
+      "title": "DeepSeek-7b",
+      "model": "deepseek-coder:6.7b",
+      "completionOptions": {},
+      "apiBase": "http://localhost:11434",
+      "provider": "ollama"
+}
+```
