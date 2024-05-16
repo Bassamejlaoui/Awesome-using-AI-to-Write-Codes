@@ -164,3 +164,25 @@ Then save and close it. After that select the "DeepSeek-7b" model from the drop 
 
 Lets try out the **Chat first.** Here, I asked it to write a simple FastAPI server with all curd operations. It will even give you instruction on how to run it, very nice!
 
+
+![image](https://github.com/mejbass/Autocomplete-to-Autopilot---Working-with-Coding-Assistants/assets/130122304/179a16db-9b2b-4244-993e-c42d33473e8e)
+
+Lets try another way we can interact with **Continue.** Press **Command + Shift + L** on Mac and **Ctrl + Shift + L** on Windows/Linux and a command palette will open and you can type your request there.
+
+![image](https://github.com/mejbass/Autocomplete-to-Autopilot---Working-with-Coding-Assistants/assets/130122304/2e544f27-71ab-44ec-9597-210d768a861d)
+
+As you can see below it will generate the code and provide you with options to **Accept** or **Reject.**
+
+![image](https://github.com/mejbass/Autocomplete-to-Autopilot---Working-with-Coding-Assistants/assets/130122304/82c50e98-d251-43ea-be2a-94463e72e2b8)
+
+Next lets try to modify or refactor our code and write some tests. Select a portion of the code and press **Command + Shift + M** on Mac or **Ctrl + Shift + M** on Windows/Linux and the portion of the code will be copied to the chat window. next type ```/test``` and hit **Enter**
+
+![image](https://github.com/mejbass/Autocomplete-to-Autopilot---Working-with-Coding-Assistants/assets/130122304/2d7d2cc4-a654-45ab-9e70-39f34432c4d3)
+
+![image](https://github.com/mejbass/Autocomplete-to-Autopilot---Working-with-Coding-Assistants/assets/130122304/00cbd701-6ae7-4302-93af-fb3cb0a2754f)
+
+It not only provided you with the tests but also included what to install and how to run it, amazing!!
+
+> :warning: Continue as a lot of other features so I will leave them to you to explore.
+
+> :warning: **Note** you can also use LM Studio with Continue.dev!!! Checkout there [documentation](https://continue.dev/docs/how-to-use-continue).
